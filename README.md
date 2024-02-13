@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Benin24
 - 👀 I’m interested in ...Python,Artificial Intelligence and Data structure
 - 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...techies
+- 💞️ I’m looking to collaborate on ...programmers and tTechnocrats
+
 - 📫 How to reach me ...@benin.v.s
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
